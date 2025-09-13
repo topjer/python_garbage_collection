@@ -29,7 +29,7 @@ functions wait before returning the result so that the impact on memory is easie
 
 ## Establishing baseline
 
-Run the file `baseline.py` as mentioned under [above](#general_execution_instruction)
+Run the file `baseline.py` as mentioned under [above](#general-execution-instruction)
 
 You should see a graph with 3 bumps. The beginning and end of every function call should be indicated by brackets.
 
