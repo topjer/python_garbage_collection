@@ -8,13 +8,15 @@ Just follow the steps mentioned here.
 
 ## Dependencies
 
-We will profile meory of an example application, thus the `memory_profiler` package is needed. Install it via
+The following dependencies are needed:
+* `memory_profiler`
+* `numpy`
+* `matplotlib`
 
+Install them via
 ```shell
-$ pip install memory_profiler
+$ pip install -r requirements.txt
 ```
-
-Also install `numpy` and `matplotlib` the same way.
 
 ## General execution instruction
 
